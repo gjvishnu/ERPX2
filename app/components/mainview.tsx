@@ -183,8 +183,8 @@ export default function Mainview(){
                   {/* follow user END */}
 
                        </div>
-                       <h6 className="ps-3 text-primary text-xs">Recommdation</h6>
-                      <div className="stoireMain h-1/6  px-2 pb-2 flex space-x-1  overflow-x-hidden  overflow-x-scroll">
+                       <h6 className="ps-3 text-primary text-xs mt-3">Recommdation</h6>
+                      <div className="stoireMain h-1/6  px-2 pb-2 flex pt-4 space-x-1  overflow-x-hidden  overflow-x-scroll">
                    {/* {arr2.map((e)=>(
              <a> <div className="bg-black h-full w-40 bgrecom"></div></a>
                    ))} */}
