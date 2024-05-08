@@ -89,7 +89,7 @@ export default function Mainview(){
                               //   Single post Start
                             <div className='post m-1 p-1 bg-blue-100 rounded-2xl' >
                             <div className='m-3 flex'>
-                            <img src={''} alt="Robert Downey Jr." className='w-10 h-10 rounded-full'/>
+                            <img src={astronut} alt="Robert Downey Jr." className='w-10 h-10 rounded-full'/>
                             <div className='ms-3'>
                               <p className='text-xs'>Name</p>
                               <p className='text-xs text-gray-500'>Date</p>
